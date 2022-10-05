@@ -8,5 +8,5 @@ jobs:
     steps:
     - uses: bbarani/opensearch-build-badger@main
       with:
-        versions: "1.3, 2.4, 3.0"
+        versions: "2.4"
 
