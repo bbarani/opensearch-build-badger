@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/peternied/opensearch-build-badger.git"
+    "url": "git+https://github.com/bbarani/opensearch-build-badger.git"
   },
   "author": "Barani",
   "bugs": {
@@ -19,7 +19,7 @@
     "@actions/core": "^1.4.0"
   },
   "devDependencies": {
-    "@types/node": "^16.4.11",
+    "@types/node": "^16.11.64",
     "@vercel/ncc": "^0.29.0",
     "jest": "^27.0.6",
     "typescript": "^4.3.5"
