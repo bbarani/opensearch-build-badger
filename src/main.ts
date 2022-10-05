@@ -6,7 +6,6 @@ export async function run() {
 
     const repositories = [
         "OpenSearch",
-        "OpenSearch-Dashboards",
         "alerting",
         "anomaly-detection",
         "asynchronous-search",
@@ -24,6 +23,17 @@ export async function run() {
         "performance-analyzer-rca",
         "security",
         "sql",
+        "OpenSearch-Dashboards",
+        "index-management-dashboards-plugin",
+        "dashboards-maps",
+        "security-dashboards-plugin",
+        "security-analytics-dashboards-plugin ",
+        "alerting-dashboards-plugin",
+        "opensearch-dashboards-functional-test ",
+        "anomaly-detection-dashboards-plugin ",
+        "dashboards-visualizations",
+        "ml-commons-dashboards",
+        "dashboards-notebooks "
     ];
 
     const untriagedPrefix = "![](https://img.shields.io/github/issues/opensearch-project";
