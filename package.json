@@ -10,11 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/peternied/opensearch-build-badger.git"
   },
-  "author": "Peter Nied",
+  "author": "Barani",
   "bugs": {
-    "url": "https://github.com/peternied/opensearch-build-badger/issues"
+    "url": "https://github.com/bbarani/opensearch-build-badger/issues"
   },
-  "homepage": "https://github.com/peternied/opensearch-build-badger#readme",
+  "homepage": "https://github.com/bbarani/opensearch-build-badger#readme",
   "dependencies": {
     "@actions/core": "^1.4.0"
   },
